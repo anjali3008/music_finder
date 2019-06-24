@@ -23,6 +23,59 @@
   color: #61dafb;
 }
 
+.input-style {
+  margin-right: 4px;
+  padding: 4px;
+  border: none;
+  border-bottom: #00000066 1px solid;
+  width: 27%;
+}
+
+.btn-search {
+  color: white;
+  background-color: blue;
+  border: none;
+  padding: 4px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 20px;
+}
+
+.container {
+  background-color: #80808040;
+  width: 90%;
+  height: 90vh; 
+}
+
+.parent-div {
+  text-align: center;
+}
+
+.display-item {
+  background-color: white;
+  border-bottom: 1px solid grey;
+  width: 20%;
+  align-items: left;
+}
+
+.display-details {
+  flex-direction: column;
+  padding-left: 2px;
+  display: inline;
+}
+
+.collection-name {
+
+}
+
+.more-details {
+
+}
+
+.music-icon {
+
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
